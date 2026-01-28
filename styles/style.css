@@ -186,7 +186,7 @@ body {
 .orb-1 {
   width: 384px;
   height: 384px;
-  background-color: rgba(255, 235, 123, 0.24);
+  background-color: rgba(255, 235, 123, 0.11);
   top: 10%;
   left: 10%;
   animation: float1 20s ease-in-out infinite;
@@ -1323,7 +1323,6 @@ section {
     opacity: 0;
   }
 }
-
 
 .cursor-trail {
   width: 20px;
